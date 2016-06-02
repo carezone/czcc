@@ -18,12 +18,11 @@ CareZone contact with any questions you may have.
 
 ## Project Description
 
-Imagine your company has just acquired another company. Unfortunately, they
-never used a database, and instead stored all of their data in a tab-delimited
-file. *Yes, we know this is ridiculous.* We need to create a way for the
-company to import their data into a database. Your task is to create a web
-application (using Ruby on Rails) that accepts file uploads and stores it in a
-relational database.
+Imagine your company has partnered with a business intelligence vendor. They 
+have an automated job that sends over data as a tab-delimited file. They're old 
+school. We need to create a way for the company to import their data into a 
+database. Your task is to create a web application (using Ruby on Rails) that
+accepts file uploads and stores it in a relational database.
 
 Here's what your application must do:
 
